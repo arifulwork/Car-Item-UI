@@ -1,7 +1,9 @@
 # Car-Item-UI
 
-npm install 
+### Local Installation
 
-then 
-
+```bash
+# Compiling resources
+npm install
 npm start 
+```
